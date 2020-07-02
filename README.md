@@ -1,4 +1,4 @@
-# F = MA Calculator Using Python
+# NewtonsSecondLawCalculator (F = MA) Using Python
 
 A PBL (Project Based Learning) project to understand Newton's Laws of Motion,
 in particular the F = MA equation by creating a python module that can solve for X given 2 parameters
